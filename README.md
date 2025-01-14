@@ -1,7 +1,5 @@
-# Linear-Regression-Prediction-masters
 
-
-# Linear-Regression-Prediction on House price prrediction
+# Linear-Regression-Prediction on House price prediction
 _Note: This repository focuses on the projects that I would be doing on "Linear Regression". Feel free to make any improvements.
 The theory given here is taken from various sources over internet. Me as a owner of this project do not claim it's ownership in any whatsoevr way._
 
